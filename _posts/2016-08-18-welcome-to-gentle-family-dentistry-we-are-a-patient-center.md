@@ -1,14 +1,24 @@
 ---
-description: ' Welcome to Gentle Family Dentistry! We are a patient-centered practice that strives to meet all of our patient''s dental needs in a professional, friendly, caring, and compassionate manner. Our Mission Statement is "To provide excellent, gentle, dentistry for our patients and their families." Each of our staff members works hard to do this each and every day. We have recently been chosen by The Pantagraph Reader''s Choice Award as one of the top three dentists in the Bloomington-Normal area! We are very proud of this distinction, and will do all we can to continue to earn your high reviews. Please feel free to share your experiences at Gentle Family Dentistry with your family and friends! '
-dateModified: '2016-08-18T20:07:01.799Z'
-datePublished: '2016-08-18T20:11:54.719Z'
+description: >-
+  Welcome to Gentle Family Dentistry! We are a patient-centered practice that
+  strives to meet all of our patient's dental needs in a professional, friendly,
+  caring, and compassionate manner. Our Mission Statement is "To provide
+  excellent, gentle, dentistry for our patients and their families." Each of our
+  staff members works hard to do this each and every day. We have recently been
+  chosen by The Pantagraph Reader's Choice Award as one of the top three
+  dentists in the Bloomington-Normal area! We are very proud of this
+  distinction, and will do all we can to continue to earn your high reviews.
+  Please feel free to share your experiences at Gentle Family Dentistry with
+  your family and friends! 
+dateModified: '2016-08-19T14:17:09.995Z'
+datePublished: '2016-08-19T14:17:10.455Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-18-welcome-to-gentle-family-dentistry-we-are-a-patient-center.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
