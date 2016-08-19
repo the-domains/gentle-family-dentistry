@@ -14,6 +14,10 @@ layout_spectrum: 0.9336585125420243
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a00739-fe85-480c-815d-5b3d2698663a.png
 name: Gentle Family Dentistry
+navigation:
+  - name: Home
+    id: b6424f9d-7c8d-4303-a558-3a24a019e2e9
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4401811d-3d83-4cd9-a9ab-61fae3d5fdc3.png
 title: Gentle Family Dentistry
