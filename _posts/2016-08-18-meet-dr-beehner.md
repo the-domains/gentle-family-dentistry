@@ -9,18 +9,17 @@ description: >-
   State Dental Society and American Dental Association. She stays up to date
   with the latest dental technology by attending continuing education courses
   throughout the year.
-dateModified: '2016-08-18T20:10:49.191Z'
-datePublished: '2016-08-18T20:40:47.171Z'
+dateModified: '2016-08-19T14:20:45.477Z'
+datePublished: '2016-08-19T14:20:46.004Z'
 title: Meet Dr. Beehner
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-meet-dr-beehner.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: meet-dr-beehner/index.html
+_type: Blurb
 
 ---
 # Meet Dr. Beehner
