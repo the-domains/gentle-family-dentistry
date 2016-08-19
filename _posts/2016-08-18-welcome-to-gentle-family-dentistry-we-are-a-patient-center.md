@@ -10,19 +10,18 @@ description: >-
   distinction, and will do all we can to continue to earn your high reviews.
   Please feel free to share your experiences at Gentle Family Dentistry with
   your family and friends! 
-dateModified: '2016-08-19T14:17:09.995Z'
-datePublished: '2016-08-19T14:17:10.455Z'
+dateModified: '2016-08-19T14:20:02.882Z'
+datePublished: '2016-08-19T14:20:03.197Z'
 title: ''
 author: []
 publisher: {}
 via: {}
 sourcePath: >-
   _posts/2016-08-18-welcome-to-gentle-family-dentistry-we-are-a-patient-center.md
+hasPage: true
 starred: true
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+url: welcome-to-gentle-family-dentistry-we-are-a-patient-centere/index.html
+_type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b81ce513-2707-4c83-8080-c31ff95e8789.jpg)
